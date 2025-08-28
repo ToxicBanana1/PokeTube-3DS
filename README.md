@@ -1,3 +1,3 @@
-# PokeTube 3DS  
+okay so it turns out I actually have no idea how the player works ToT
 
-A work-in-progress homebrew YouTube client for the 3DS  
+I did manage to get github copilot to inject a custom .mp4 URL, howver it only played 1 frame of the video before stopping
